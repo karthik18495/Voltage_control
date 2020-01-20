@@ -7,6 +7,7 @@
 #include <QGraphicsView>
 #include <QGraphicsItem>
 #include <QValidator>
+#include <QDoubleValidator>
 #include <QString>
 #include "confirmation_voltage.h"
 #include <QMessageBox>

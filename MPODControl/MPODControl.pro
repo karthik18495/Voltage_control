@@ -19,11 +19,13 @@ SOURCES += \
     confirmation_voltage.cpp \
     main.cpp \
     mainwindow.cpp \
+    snmp.cpp \
     voltage_controls.cpp
 
 HEADERS += \
     confirmation_voltage.h \
     mainwindow.h \
+    snmp.h \
     voltage_controls.h
 
 FORMS += \
